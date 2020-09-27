@@ -1,9 +1,9 @@
-cause du handicap;nombre de personnes handicapées;pourcentage
-Congénital;72 394;47,8
-Maladie;58 647;38,7
-Maladie professionnelle;1 526;1
-Accident du travail;2 986;2,0
-Accident de la circulation;3 771;2,5
-Accident domestique;2 897;1,9
-Autre accident *;3 530;2,3
-Autre cause **;5 672;3,7
+cause du handicap,nombre de personnes handicapées,pourcentage
+Congénital,72 394,47.8
+Maladie,58 647,38.7
+Maladie professionnelle,1 526,1
+Accident du travail,2 986,2.0
+Accident de la circulation,3 771,2.5
+Accident domestique,2 897,1.9
+Autre accident *,3 530,2.3
+Autre cause **,5 672,3.7
